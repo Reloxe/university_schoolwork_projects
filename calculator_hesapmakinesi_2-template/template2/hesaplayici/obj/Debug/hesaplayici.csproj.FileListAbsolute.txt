@@ -1,0 +1,7 @@
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\hesaplayici\hesaplayici\bin\Debug\hesaplayici.exe.config
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\hesaplayici\hesaplayici\bin\Debug\hesaplayici.exe
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\hesaplayici\hesaplayici\bin\Debug\hesaplayici.pdb
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\hesaplayici\hesaplayici\obj\Debug\hesaplayici.csproj.AssemblyReference.cache
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\hesaplayici\hesaplayici\obj\Debug\hesaplayici.csproj.CoreCompileInputs.cache
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\hesaplayici\hesaplayici\obj\Debug\hesaplayici.exe
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\hesaplayici\hesaplayici\obj\Debug\hesaplayici.pdb

@@ -1,0 +1,7 @@
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.AssemblyReference.cache
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.CoreCompileInputs.cache
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
