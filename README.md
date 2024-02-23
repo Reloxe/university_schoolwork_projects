@@ -16,5 +16,8 @@ Simple software projects given at universities/schools | üniversite/okullar da 
 ## 5- C# Reverse text | C# Metin tersine çevir
 ## 6- C# Numeric lotto | C# Sayisal loto 
 
+I would be happy if you click the star button :)
+Star butonuna tıklarsanız sevinirim :)
+![resim](https://github.com/Reloxe/university_schoolwork_projects/assets/97050615/d6b4b473-1669-42bb-9d46-401613ed833a)
 
 
