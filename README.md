@@ -1,4 +1,4 @@
-# university_schoolwork_projects
+# University, Schoolwork Basic Projects List
 Simple software projects given at universities/schools | üniversite/okullar da verilen basit yazılım projeleri
 
 ## Important warning / Önemli uyarı
