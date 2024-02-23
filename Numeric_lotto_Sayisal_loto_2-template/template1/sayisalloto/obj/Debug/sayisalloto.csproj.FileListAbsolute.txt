@@ -1,0 +1,7 @@
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\sayisalloto\sayisalloto\bin\Debug\sayisalloto.exe.config
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\sayisalloto\sayisalloto\bin\Debug\sayisalloto.exe
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\sayisalloto\sayisalloto\bin\Debug\sayisalloto.pdb
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\sayisalloto\sayisalloto\obj\Debug\sayisalloto.csproj.AssemblyReference.cache
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\sayisalloto\sayisalloto\obj\Debug\sayisalloto.csproj.CoreCompileInputs.cache
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\sayisalloto\sayisalloto\obj\Debug\sayisalloto.exe
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\sayisalloto\sayisalloto\obj\Debug\sayisalloto.pdb
