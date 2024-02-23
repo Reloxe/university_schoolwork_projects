@@ -1,0 +1,7 @@
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metincevirici\metincevirici\bin\Debug\metincevirici.exe.config
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metincevirici\metincevirici\bin\Debug\metincevirici.exe
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metincevirici\metincevirici\bin\Debug\metincevirici.pdb
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metincevirici\metincevirici\obj\Debug\metincevirici.csproj.AssemblyReference.cache
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metincevirici\metincevirici\obj\Debug\metincevirici.csproj.CoreCompileInputs.cache
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metincevirici\metincevirici\obj\Debug\metincevirici.exe
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metincevirici\metincevirici\obj\Debug\metincevirici.pdb

@@ -1,0 +1,7 @@
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metintersinecevir\metintersinecevir\bin\Debug\metintersinecevir.exe.config
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metintersinecevir\metintersinecevir\bin\Debug\metintersinecevir.exe
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metintersinecevir\metintersinecevir\bin\Debug\metintersinecevir.pdb
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metintersinecevir\metintersinecevir\obj\Debug\metintersinecevir.csproj.AssemblyReference.cache
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metintersinecevir\metintersinecevir\obj\Debug\metintersinecevir.csproj.CoreCompileInputs.cache
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metintersinecevir\metintersinecevir\obj\Debug\metintersinecevir.exe
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metintersinecevir\metintersinecevir\obj\Debug\metintersinecevir.pdb

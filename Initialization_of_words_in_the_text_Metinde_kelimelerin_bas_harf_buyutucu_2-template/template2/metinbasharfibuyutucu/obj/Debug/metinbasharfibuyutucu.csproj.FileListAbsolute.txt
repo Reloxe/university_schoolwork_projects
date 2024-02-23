@@ -1,0 +1,7 @@
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metinbasharfibuyutucu\metinbasharfibuyutucu\bin\Debug\metinbasharfibuyutucu.exe.config
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metinbasharfibuyutucu\metinbasharfibuyutucu\bin\Debug\metinbasharfibuyutucu.exe
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metinbasharfibuyutucu\metinbasharfibuyutucu\bin\Debug\metinbasharfibuyutucu.pdb
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metinbasharfibuyutucu\metinbasharfibuyutucu\obj\Debug\metinbasharfibuyutucu.csproj.AssemblyReference.cache
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metinbasharfibuyutucu\metinbasharfibuyutucu\obj\Debug\metinbasharfibuyutucu.csproj.CoreCompileInputs.cache
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metinbasharfibuyutucu\metinbasharfibuyutucu\obj\Debug\metinbasharfibuyutucu.exe
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\metinbasharfibuyutucu\metinbasharfibuyutucu\obj\Debug\metinbasharfibuyutucu.pdb

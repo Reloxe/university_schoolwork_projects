@@ -1,0 +1,7 @@
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\kacgundurhayattayim\kacgundurhayattayim\bin\Debug\kacgundurhayattayim.exe.config
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\kacgundurhayattayim\kacgundurhayattayim\bin\Debug\kacgundurhayattayim.exe
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\kacgundurhayattayim\kacgundurhayattayim\bin\Debug\kacgundurhayattayim.pdb
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\kacgundurhayattayim\kacgundurhayattayim\obj\Debug\kacgundurhayattayim.csproj.AssemblyReference.cache
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\kacgundurhayattayim\kacgundurhayattayim\obj\Debug\kacgundurhayattayim.csproj.CoreCompileInputs.cache
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\kacgundurhayattayim\kacgundurhayattayim\obj\Debug\kacgundurhayattayim.exe
+C:\Users\AdminBey\Desktop\sillecekprojeesddf\kacgundurhayattayim\kacgundurhayattayim\obj\Debug\kacgundurhayattayim.pdb
